@@ -6,4 +6,4 @@ Repository have 2 dump folders. The first is a dump with deobfuscated methods, a
 You can use dump for their mods.
 # Some info about anticheat
 Standoff 2 anticheat have Lib, Apk, Obb, Sign check. You can return original hash and sign with offsets in secret class. But.. you need to return SafeString.. This will be a huge problem. 
-Standoff 2 detect smali and manifest changes, I do not recommend making the menu on top of other windows.
+Standoff 2 detect smali and manifest changes, I do not recommend making the menu with floating window permission.
